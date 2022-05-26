@@ -1,0 +1,8 @@
+/home/lifeng/Downloads/training-set-template-of-yolov3-win-master/data/Images/000016.jpg
+/home/lifeng/Downloads/training-set-template-of-yolov3-win-master/data/Images/000025.jpg
+/home/lifeng/Downloads/training-set-template-of-yolov3-win-master/data/Images/000028.jpg
+/home/lifeng/Downloads/training-set-template-of-yolov3-win-master/data/Images/000036.jpg
+/home/lifeng/Downloads/training-set-template-of-yolov3-win-master/data/Images/000055.jpg
+/home/lifeng/Downloads/training-set-template-of-yolov3-win-master/data/Images/000059.jpg
+/home/lifeng/Downloads/training-set-template-of-yolov3-win-master/data/Images/000070.jpg
+/home/lifeng/Downloads/training-set-template-of-yolov3-win-master/data/Images/000083.jpg
